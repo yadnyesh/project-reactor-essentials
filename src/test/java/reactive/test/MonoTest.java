@@ -8,6 +8,6 @@ public class MonoTest {
 
     @Test
     public void test() {
-        log.info("Everthing working as intended....:)");
+        log.info("Everything working as intended....:)");
     }
 }
